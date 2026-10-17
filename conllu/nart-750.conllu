@@ -15306,7 +15306,7 @@
 6	,	,	PUNCT	_	_	_	_	_	_
 7	афтæ	афтæ	ADV	_	Deixis=Prox|PronType=Dem	_	_	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
-9	æрхæндæгæй	 æрхæндæгæй	ADV	_	_	_	_	_	_
+9	æрхæндæгæй	æрхæндæгæй	ADV	_	_	_	_	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	ра	ра	PART	_	_	_	_	_	_
 12	раст	раст	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
