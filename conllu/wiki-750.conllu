@@ -5831,7 +5831,7 @@
 # genre_id = wiki_new
 # text = Дзыллæтæ сæ арфæтæ кодтой æррæ хъæрæй, æмæ медиатæ уый схуыдтой «Битломани».
 1	Дзыллæтæ	дзыллæ	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-2	сæ	cæ	PRON	_	Case=Gen|Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
+2	сæ	cæ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 3	арфæтæ	арфæ	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	кодтой	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	æррæ	æррæ	ADJ	_	_	_	_	_	_
@@ -7191,7 +7191,7 @@
 13	дзуапп	дзуапп	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	кодтой	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 15	æнæ	æнæ	ADP	_	_	_	_	_	_
-16	цыт	цыт	ADJ	_	Case=Nom|Number=Sing	_	_	_	_
+16	цыт	цыт	ADJ	_	_	_	_	_	_
 17	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 18	комикон	комикон	ADJ	_	_	_	_	_	_
 19	а	а	PART	_	_	_	_	_	_
@@ -8096,7 +8096,7 @@
 2	арф	арф	ADJ	_	_	_	_	_	_
 3	кæмтты	ком	NOUN	_	Case=Ine|Number=Plur	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
-5	кæдон	Кæдон	PROPN	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
+5	кæдон	Кæдон	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 6	дих	дих	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	кæнынц	кæнын	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 8	Вилькабамбæйы	Вилькабамбæ	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -10179,7 +10179,7 @@
 24	,	,	PUNCT	_	_	_	_	_	_
 25	уыдонæй	уыдон	PRON	_	Case=Abl|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
 26	сæ	cæ	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
-27	фыццаг	фыццаг	NOUN	_	Case=Nom|Number=Sing|NumType=Ord	_	_	_	_
+27	фыццаг	фыццаг	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	_
 28	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 495
