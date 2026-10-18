@@ -1628,7 +1628,7 @@
 1	Районы	район	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 2	ахуырады	ахуырад	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	хайады	хайад	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-4	гæс	гæс	NOUN	_	CAse=Nom|Number=Sing	_	_	_	_
+4	гæс	гæс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	Гæбæраты	Гæбæратæ	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
 6	Элвира	Элвира	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 7	куыд	куыд	ADV	_	PronType=Int	_	_	_	_
