@@ -2839,7 +2839,7 @@
 9	сахармæ	сахар	NOUN	_	Case=All|Number=Sing	_	_	_	_
 10	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 11	1-æм	1-æм	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	_
-12	скъолайы	скъола	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+12	скъолайы	скъола	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	пырх	пырх	ADJ	_	_	_	_	_	_
 14	бæстыхаймæ	бæстыхай	NOUN	_	Case=All|Number=Sing	_	_	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
@@ -2886,7 +2886,7 @@
 9	дæр	дæр	PART	_	_	_	_	_	_
 10	сæ	сæ	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 11	ра	ра	PART	_	_	_	_	_	_
-12	гуырæн	гуырæн	ADJ	_	VerbForm=Inf2	_	_	_	_
+12	гуырæн	гуырæн	ADJ	_	Aspect=Perf|VerbForm=Inf2	_	_	_	_
 13	бонтæм	бон	NOUN	_	Case=All|Number=Plur	_	_	_	_
 14	фыстон	фыссын	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 15	æмдзæвгæтæ	æмдзæвгæ	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -2906,7 +2906,7 @@
 29	сувениртæ	сувенир	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 30	цыд	цæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 31	,	,	PUNCT	_	_	_	_	_	_
-32	уыдонимæ	уыдони	PRON	_	Case=Com|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
+32	уыдонимæ	уыдон	PRON	_	Case=Com|Deixis=Remt|Number=Plur|PronType=Dem	_	_	_	_
 33	"	"	PUNCT	_	_	_	_	_	_
 34	,	,	PUNCT	_	_	_	_	_	_
 35	—	—	PUNCT	_	_	_	_	_	_
@@ -2957,7 +2957,7 @@
 3	ам	ай	PRON	_	Case=Ine|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 4	æнтыстджынæй	æнтыстджын	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 5	кусынц	кусын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-6	фермерон	фермерон	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_
+6	фермерон	фермерон	ADJ	_	_	_	_	_	_
 7	хæдзарадтæ	хæдзарад	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
 9	дыргъдæттæ	дыргъдон	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -2972,9 +2972,10 @@
 2	азы	аз	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	кæрон	кæрон	ADP	_	_	_	_	_	_
 4	Хуссар	хуссар	ADJ	_	_	_	_	_	_
-5	Ирыстоны	Ирыстон	PROPN	_	Case=Ine|Number=Sing	_	_	_	_
+5	Ирыстоны	Ирыстон	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 6	социалон—экономикон	социалон—экономикон	ADJ	_	_	_	_	_	_
-7	райрæзты	райрæзт	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+7	ра	ра	PART	_	_	_	_	_	_
+7	рæзты	рæзт	NOUN	_	Aspect=Perf|Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 8	инвестицион	инвестицион	ADJ	_	_	_	_	_	_
 9	программæ	программæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	фидаргонд	фидаргонд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
