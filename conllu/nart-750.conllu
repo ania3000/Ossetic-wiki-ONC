@@ -600,7 +600,7 @@
 1	Ны	ны	PART	_	_	_	_	_	_
 2	хъæр	хъæр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	кодта	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-4	фидиуæг	фидиуæг	NOUN	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+4	фидиуæг	фидиуæг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	дæр	дæр	PART	_	_	_	_	_	_
 6	Æртæ	æртæ	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
 7	Нартыл	Нарт	PROPN	_	Case=Sup|Number=Count	_	_	_	_
@@ -2397,7 +2397,7 @@
 # text = Ацыди фидиуæг æмæ ныхъхъæр кодта: — О Нарт!
 1	А	а	PART	_	_	_	_	_	_
 2	цыди	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-3	фидиуæг	фидиуæг	NOUN	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+3	фидиуæг	фидиуæг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 5	ны	ны	PART	_	_	_	_	_	_
 6	хъæр	хъæр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -10373,7 +10373,7 @@
 1	Æрба	æрба	PART	_	_	_	_	_	_
 2	сидын	сидын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
 3	кодта	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-4	фидиуæгмæ	фидиуæг	NOUN	_	Case=All|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+4	фидиуæгмæ	фидиуæг	NOUN	_	Case=All|Number=Sing	_	_	_	_
 5	Уырызмæг	Уырызмæг	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 7	хорз	хорз	ADV	_	_	_	_	_	_
