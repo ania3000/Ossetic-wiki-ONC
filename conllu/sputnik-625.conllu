@@ -489,7 +489,7 @@
 6	гæсгæ	гæсгæ	ADP	_	_	_	_	_	_
 7	ист	ист	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 8	киноныв	киноныв	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-9	"Суадон"-æн	Суадон"	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
+9	"Суадон"-æн	"Суадон"	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
 10	Каннаг	каннаг	ADJ	_	_	_	_	_	_
 11	фестивалы	фестивал	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 12	уыд	уæвын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -625,7 +625,7 @@
 16	куыст	куыст	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 17	а	а	PART	_	_	_	_	_	_
 18	дарддæр	дард	ADJ	_	Degree=Cmp	_	_	_	_
-19	кодта	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+19	кодта	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 20	Цæгат	цæгат	ADJ	_	_	_	_	_	_
 21	Ирыстон	Ирыстон	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 22	æмæ	æмæ	CCONJ	_	_	_	_	_	_
