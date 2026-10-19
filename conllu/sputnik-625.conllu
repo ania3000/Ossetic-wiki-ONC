@@ -7732,7 +7732,7 @@
 7	уагъд	уагъд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 8	æр	æр	PART	_	_	_	_	_	_
 9	цыд	цæуын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-10	Иугонд	иугонд	ADJ	_	_	_	_	_	_
+10	Иугонд	иугонд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 11	нациты	наци	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 12	организацийы	организаций	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 13	(	(	PUNCT	_	_	_	_	_	_

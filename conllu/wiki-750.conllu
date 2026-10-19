@@ -5090,7 +5090,7 @@
 3	ахста	ахсын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	фыццаг	фыццаг	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	_
 5	бынат	бынат	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-6	Иугонд	иугонд	ADJ	_	_	_	_	_	_
+6	Иугонд	иугонд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 7	Къаролады	Къаролад	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 8	æппæт	æппæт	DET	_	PronType=Tot	_	_	_	_
 9	чартты	чарт	NOUN	_	Case=Ine|Number=Plur	_	_	_	_
@@ -9317,7 +9317,7 @@
 3	Beatles	Beatles	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 4	сс	с	PART	_	_	_	_	_	_
 5	и	уæвын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-6	Иугонд	иугонд	ADV	_	_	_	_	_	_
+6	Иугонд	иугонд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 7	Къаролады	Къаролад	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 8	историйы	истори	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 9	дыккаг	дыккаг	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	_
@@ -12622,7 +12622,7 @@
 # sent_id = 608
 # genre_id = wiki_new
 # text = Иугонд Къароладмæ октябры 31 боны куы æрбаздæхтысты, уæд цалдæр сæдæ хъæргæнгæ фанаттæ сæм размæ рацыдысты Хитроуы аэропорты, таркъæвда кæй уарыд, уымæ нæкæсгæйæ.
-1	Иугонд	иугонд	ADJ	_	_	_	_	_	_
+1	Иугонд	иугонд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 2	Къароладмæ	Къаролад	PROPN	_	Case=All|Number=Sing	_	_	_	_
 3	октябры	октябр	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	31	31	ADJ	_	NumForm=Digit|NumType=Ord	_	_	_	_
@@ -13157,7 +13157,7 @@
 36	"	"	PUNCT	_	_	_	_	_	_
 37	Йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 38	ра	ра	PART	_	_	_	_	_	_
-39	уагъды	уагъд	NOUN	_	Aspect=Perf|Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
+39	уагъды	уагъд	NOUN	_	Aspect=Perf|Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 40	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 41	дæсгай	дæсгай	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Distr	_	_	_	_
 42	азтæ	аз	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -13278,7 +13278,7 @@
 32	,	,	PUNCT	_	_	_	_	_	_
 33	а	а	PART	_	_	_	_	_	_
 34	здæхти	здæхын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-35	Беслæныхъæуырдæм	Беслæныхъæу	PROPN	_	Case=All|Number=Sing	_	_	_	_
+35	Беслæныхъæуырдæм	Беслæныхъæу	PROPN	_	Case=Dir|Number=Sing	_	_	_	_
 36	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 37	чысыл	чысыл	ADJ	_	_	_	_	_	_
 38	станцæйæ	станцæ	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
@@ -13388,7 +13388,7 @@
 4	уыд	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6	ра	ра	PART	_	_	_	_	_	_
-7	гуырд	гуырын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+7	гуырд	гуырын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 8	ын	йæ	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	лæппу	лæппу	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
@@ -13405,7 +13405,7 @@
 # genre_id = wiki_new
 # text = НАТО 1949-æм азы арæзт куы æрцыдис, уæд æй Советон Цæдис банымадта, йе ’дасдзинад ын чи халы, ахæм хъуыддагыл.
 1	НАТО	Нато	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-2	1949-æм	1949-æм	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+2	1949-æм	1949-æм	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	_
 3	азы	аз	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	арæзт	арæзт	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 5	куы	куы	ADV	_	PronType=Int	_	_	_	_
@@ -13877,14 +13877,14 @@
 # text = Йæ дæргъ 725 км.
 1	Йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 2	дæргъ	дæргъ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	725	725	NUM	_	NumForm=Digit|NumType=Ord	_	_	_	_
+3	725	725	NUM	_	NumForm=Digit|NumType=Card	_	_	_	_
 4	км	км	NOUN	_	Abbr=Yes	_	_	_	_
 5	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 668
 # genre_id = wiki_new
 # text = Иугонд Штаттæм фыццаг бацыд æмæ "Бритайнаг ныббырст".
-1	Иугонд	иугонд	ADJ	_	_	_	_	_	_
+1	Иугонд	иугонд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 2	Штаттæм	Штат	PROPN	_	Case=All|Number=Plur	_	_	_	_
 3	фыццаг	фыццаг	ADV	_	NumForm=Word|NumType=Ord	_	_	_	_
 4	ба	ба	PART	_	_	_	_	_	_
