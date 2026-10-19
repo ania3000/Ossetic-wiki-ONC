@@ -30,7 +30,7 @@
 # genre_id = wiki_new
 # text = 2004-м азы бæрæггæнæнтæм гæсгæ Манагуæйы цæры 1,723 милуан адæймаджы.
 1	2004-м	2004-æм	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	Typo=Yes
-2	азы	аз	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+2	азы	аз	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	бæрæггæнæнтæм	бæрæггæнæн	NOUN	_	Case=All|Number=Plur|VerbForm=Inf2	_	_	_	_
 4	гæсгæ	гæсгæ	ADP	_	_	_	_	_	_
 5	Манагуæйы	Манагуæ	PROPN	_	Case=Ine|Number=Sing	_	_	_	_
@@ -79,8 +79,8 @@
 2	та	та	PART	_	_	_	_	_	_
 3	йын	йæ	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 4	ба	ба	PART	_	_	_	_	_	_
-5	хъуыд	хъæыун	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-6	«Индрæ»-йы	«Индрæ»-йы	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+5	хъуыд	хъæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+6	«Индрæ»-йы	«Индрæ»	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 7	ба	ба	PART	_	_	_	_	_	_
 8	æхгæнын	æхгæнын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
 9	,	,	PUNCT	_	_	_	_	_	_

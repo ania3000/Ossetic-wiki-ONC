@@ -135,7 +135,7 @@
 6	æр	æр	PART	_	_	_	_	_	_
 7	ахстой	ахсын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 8	фондз	фондз	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
-9	арæнхалæджы	арæнхалæг	NOUN	_	Case=Gen|Number=Count	_	_	_	_
+9	арæнхалæджы	арæнхалæг	NOUN	_	Case=Gen|Number=Count|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	фе	фæ	PART	_	_	_	_	_	_
 12	хъусын	хъусын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
@@ -226,7 +226,7 @@
 3	куыстон	кусын	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	уым	уый	PRON	_	Case=Ine|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-6	алкуы	алкуы	ADV	_	PronType=Neg	_	_	_	_
+6	алкуы	алкуы	ADV	_	PronType=Tot	_	_	_	_
 7	дæр	дæр	PART	_	_	_	_	_	_
 8	сты	уæвын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 9	мæ	мæ	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
@@ -265,7 +265,7 @@
 2	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 3	цардæй	цард	NOUN	_	Case=Abl|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 4	а	а	PART	_	_	_	_	_	_
-5	хицæн	хи	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+5	хицæн	хицæн	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	1996	1996	ADJ	_	NumForm=Digit|NumType=Ord	_	_	_	_
 7	азы	аз	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
@@ -281,7 +281,7 @@
 6	айнæг	айнæг	ADJ	_	_	_	_	_	_
 7	къæдзæхæй	къæдзæх	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 8	æр	æр	PART	_	_	_	_	_	_
-9	уадзын	уадзын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
+9	уадзын	уадзын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
 10	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 11	йæ	йæ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	стæй	стæй	ADV	_	_	_	_	_	_
@@ -318,7 +318,7 @@
 19	Æхсæнхицауадон	æхсæнхицауадон	ADJ	_	_	_	_	_	_
 20	къамисы	къамис	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 21	ра	ра	PART	_	_	_	_	_	_
-22	бадтмæ	бадт	NOUN	_	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+22	бадтмæ	бадт	NOUN	_	Aspect=Perf|Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 23	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 16
@@ -332,7 +332,7 @@
 6	æр	æр	PART	_	_	_	_	_	_
 7	цыд	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 8	,	,	PUNCT	_	_	_	_	_	_
-9	ногæй	ног	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+9	ногæй	ногæй	ADV	_	_	_	_	_	_
 10	ны	ны	PART	_	_	_	_	_	_
 11	фыстой	фыссын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 12	йыл	йæ	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Prs	_	_	_	_
@@ -388,7 +388,7 @@
 31	шофыртæн	шофыр	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 32	æфхæрдæй	æфхæрд	NOUN	_	Case=Abl|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 33	а	а	PART	_	_	_	_	_	_
-34	ирвæзынæн	ирвæзын	NOUN	_	Case=Dat|Number=Sing|VerbForm=Inf	_	_	_	_
+34	ирвæзынæн	ирвæзын	NOUN	_	Aspect=Perf|Case=Dat|Number=Sing|VerbForm=Inf	_	_	_	_
 35	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 18
@@ -526,7 +526,7 @@
 1	Фырсыгъдæг	фырсыгъдæг	ADJ	_	_	_	_	_	_
 2	Мады	Мад	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 3	Майрæмы	Майрæм	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
-4	аргъуаны	аргъуан	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+4	аргъуаны	аргъуан	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 5	уагъд	уагъд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 6	æр	æр	PART	_	_	_	_	_	_
 7	цыд	цæуын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -549,7 +549,7 @@
 11	кæцытæ	кæцы	PRON	_	Case=Nom|Number=Plur|PronType=Int	_	_	_	_
 12	сын	сæ	PRON	_	Case=Dat|Number=Plur|Person=3|PronType=Prs	_	_	_	_
 13	бар	бар	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-14	ратдзысты	ратын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
+14	ратдзысты	раттын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
 15	хæххон	хæххон	ADJ	_	_	_	_	_	_
 16	уавæрæты	уавæр	NOUN	_	Case=Ine|Number=Plur	_	_	_	Typo=Yes
 17	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -636,7 +636,7 @@
 # genre_id = news
 # text = Дзыуарцыд балцы дыккаг райсом чырыстон адæм схызтысты Сохты хъæуы хохы бæрзондыл цы кувæндон ис, уырдæм.
 1	Дзыуарцыд	дзыуарцыд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-2	балцы	балцы	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+2	балцы	балцы	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	дыккаг	дыккаг	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	_
 4	райсом	райсом	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	чырыстон	чырыстон	ADJ	_	_	_	_	_	_
@@ -660,9 +660,9 @@
 1	Парадыл	парад	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 2	командæ	командæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	кодта	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-4	хахъхъæнынады	хахъхъæнынад	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
+4	хахъхъæнынады	хахъхъæнынад	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	министры	министр	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-6	хæдивæг	хæдивæг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+6	хæдивæг	хæдивæг	NOUN	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 7	генерал-лейтенант	генерал-лейтенант	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 8	Гассеты	Гассетæ	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
 9	Ибрагим	Ибрагим	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -671,7 +671,7 @@
 12	иста	исын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 13	парад	парад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	—	—	PUNCT	_	_	_	_	_	_
-15	хахъхъæнынады	хахъхъæнынад	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
+15	хахъхъæнынады	хахъхъæнынад	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 16	министр	министр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 17	Валерий	Валерий	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 18	Яхновенц	Яхновенц	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -699,7 +699,7 @@
 4	кадртæ	кадр	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 5	раст	раст	ADV	_	_	_	_	_	_
 6	авд	авд	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
-7	азы	аз	NOUN	_	Case=Nom|Number=Count	_	_	_	_
+7	азы	аз	NOUN	_	Case=Gen|Number=Count	_	_	_	_
 8	размæ	раз	NOUN	_	Case=All|Number=Sing	_	_	_	_
 9	дæр	дæр	PART	_	_	_	_	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
@@ -825,9 +825,9 @@
 18	иста	исын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 19	сæрмагонд	сæрмагонд	ADJ	_	_	_	_	_	_
 20	символикон	символикон	ADJ	_	_	_	_	_	_
-21	нысаниуæг	нысаниуæг	NOUN	_	Case=Nom|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+21	нысаниуæг	нысаниуæг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 22	,	,	PUNCT	_	_	_	_	_	_
-23	кæцыйы	кæцы	PRON	_	Case=Gen|Number=Sing|PronType=Ind	_	_	_	_
+23	кæцыйы	кæцы	PRON	_	Case=Gen|Number=Sing|PronType=Int	_	_	_	_
 24	мидæг	мидæг	ADP	_	_	_	_	_	_
 25	ис	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 26	,	,	PUNCT	_	_	_	_	_	_
@@ -839,7 +839,7 @@
 32	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 33	,	,	PUNCT	_	_	_	_	_	_
 34	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
-35	æмбарынад	æмбарынад	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf	_	_	_	_
+35	æмбарынад	æмбарынад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 36	,	,	PUNCT	_	_	_	_	_	_
 37	куыд	куыд	ADV	_	PronType=Int	_	_	_	_
 38	Уæрæсейы	Уæрæсе	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -848,7 +848,7 @@
 41	Уæрæсейы	Уæрæсе	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 42	скъуыддзаггæнæг	скъуыддзаггæнæг	ADJ	_	Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 43	роль	роль	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-44	æмбарын	æмбарын	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
+44	æмбарын	æмбарын	VERB	_	VerbForm=Inf	_	_	_	_
 45	нæ	нæ	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 46	республикъæйы	республикъæ	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 47	хъысмæты	хъысмæт	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
@@ -908,7 +908,7 @@
 4	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 5	«	«	PUNCT	_	_	_	_	_	_
 6	Кады	Кад	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
-7	Нысан»-ы	Нысан»-	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+7	Нысан»-ы	Нысан»	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 8	орденæй	орден	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
 10	«	«	PUNCT	_	_	_	_	_	_
@@ -924,7 +924,7 @@
 # text = Кæд шофыр ногæй фехала закъон, уæд йæ автотранспортыл скъæрыны бартæ ист æрцæудзысты 1,5— 2 азы æмгъуыдмæ.
 1	Кæд	кæд	SCONJ	_	_	_	_	_	_
 2	шофыр	шофыр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-3	ногæй	ног	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+3	ногæй	ногæй	ADV	_	_	_	_	_	_
 4	фе	фæ	PART	_	_	_	_	_	_
 5	хала	халын	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
 6	закъон	закъон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -949,7 +949,7 @@
 # text = Цхинвал, ПККЗ "Чермен".
 1	Цхинвал	Цхинвал	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	,	,	PUNCT	_	_	_	_	_	_
-3	ПККЗ	пккз	NOUN	_	Abbr=Yes	_	_	_	_
+3	ПККЗ	пккз	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 4	"	"	PUNCT	_	_	_	_	_	_
 5	Чермен	Чермен	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 6	"	"	PUNCT	_	_	_	_	_	_
@@ -992,7 +992,7 @@
 5	исы	исын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	11	11	NUM	_	NumForm=Digit|NumType=Card	_	_	_	_
 7	скъолайон	скъолайон	ADJ	_	_	_	_	_	_
-8	командæйы	командæйы	NOUN	_	Case=Nom|Number=Count	_	_	_	_
+8	командæйы	командæ	NOUN	_	Case=Nom|Number=Count	_	_	_	_
 9	—	—	PUNCT	_	_	_	_	_	_
 10	дæс	дæс	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
 11	Цхинвалæй	Цхинвал	PROPN	_	Case=Abl|Number=Sing	_	_	_	_
@@ -1014,7 +1014,7 @@
 6	с	с	PART	_	_	_	_	_	_
 7	æвæрдтой	æвæрын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 8	æртæ	æртæ	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
-9	хуыды	хуыд	NOUN	_	Case=Nom|Number=Count	_	_	_	_
+9	хуыды	хуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	ба	ба	PART	_	_	_	_	_	_
 12	хъыгдард	хъыгдард	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -1037,7 +1037,7 @@
 7	,	,	PUNCT	_	_	_	_	_	_
 8	ра	ра	PART	_	_	_	_	_	_
 9	истон	исын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
-10	дзы	сæ	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+10	дзы	йæ	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 11	стыр	стыр	ADJ	_	_	_	_	_	_
 12	æхцондзинад	æхцондзинад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
@@ -1050,7 +1050,7 @@
 3	æрдзон	æрдзон	ADJ	_	_	_	_	_	_
 4	газ	газ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	уагъд	уагъд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
-6	нæй	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	_
+6	нæй	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Polarity=Neg|Tense=Pres|VerbForm=Fin	_	_	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 46
@@ -1066,7 +1066,7 @@
 8	Ирыстон	Ирыстон	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 9	-	-	PUNCT	_	_	_	_	_	_
 10	Аланийы	Алани	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
-11	Уæлдæр	уæлæ	ADJ	_	_	_	_	_	_
+11	Уæлдæр	уæлæ	ADJ	_	Degree=Cmp	_	_	_	_
 12	Советы	Совет	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 13	сæрдары	сæрдар	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 14	хæдивæгæй	хæдивæг	NOUN	_	Case=Abl|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
@@ -1085,7 +1085,7 @@
 8	тæккæ	тæккæ	PART	_	_	_	_	_	_
 9	æнæ	æнæ	ADP	_	_	_	_	_	_
 10	низдзинад	низдзинад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-11	хъахъхъæнынады	хъахъхъæнынад	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
+11	хъахъхъæнынады	хъахъхъæнынад	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 12	министрад	министрад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	кæй	кæй	SCONJ	_	_	_	_	_	_
 14	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -1142,7 +1142,8 @@
 # text = Цæрджытæ иууылдæр æнæрхъæцæй æнхъæлмæ кæсынц ног сабидоны фæзындмæ, кæцы æввахс рæстæджы арæзт æрцæудзæн Цъорбисы.
 1	Цæрджытæ	цæрæг	NOUN	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 2	иууылдæр	иууылдæр	DET	_	PronType=Tot	_	_	_	_
-3	æнæрхъæцæй	æнæрхъæцæй	ADV	_	_	_	_	_	_
+3	æн	æнæ	ADP	_	_	_	_	_	_
+3	æрхъæцæй	æрхъæц	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 4	æнхъæлмæ	æнхъæл	NOUN	_	Case=All|Number=Sing	_	_	_	_
 5	кæсынц	кæсын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	ног	ног	ADJ	_	_	_	_	_	_
@@ -1263,7 +1264,7 @@
 3	рæстдинонтæн	рæстдинон	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
 4	хъуамæ	хъуамæ	PART	_	_	_	_	_	_
 5	уа	уæвын	AUX	_	Mood=Sub|Number=Sing|Person=3|VerbForm=Fin	_	_	_	_
-6	райгæ	райгæ	ADJ	_	Aspect=Perf|VerbForm=Conv	_	_	_	_
+6	райгæ	райгæ	ADJ	_	VerbForm=Conv	_	_	_	_
 7	зæрдæйы	зæрдæ	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 8	уаг	уаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
@@ -1302,7 +1303,7 @@
 # text = Амалиуæггæнджыты бахъуыд базарадон домæнтæм гæсгæ архайын",— загъта Тыджыты Владимир.
 1	Амалиуæггæнджыты	амалиуæггæнæг	NOUN	_	Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 2	ба	ба	PART	_	_	_	_	_	_
-3	хъуыд	хæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+3	хъуыд	хъæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	базарадон	базарадон	ADJ	_	_	_	_	_	_
 5	домæнтæм	домæн	NOUN	_	Case=All|Number=Plur|VerbForm=Inf2	_	_	_	_
 6	гæсгæ	гæсгæ	ADP	_	_	_	_	_	_
@@ -1321,11 +1322,11 @@
 1	Абон	абон	ADV	_	_	_	_	_	_
 2	у	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 3	стыр	стыр	ADJ	_	_	_	_	_	_
-4	бæрæгбон	бæрæгбон	PUNCT	_	_	_	_	_	_
+4	бæрæгбон	бæрæгбон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	—	—	PUNCT	_	_	_	_	_	_
 6	Хуыцауы	Хуыцау	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 7	ны	ны	PART	_	_	_	_	_	_
-8	арæджы	арæг	NOUN	_	Case=Gen|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+8	арæджы	арæг	NOUN	_	Aspect=Perf|Case=Gen|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 9	фынæт	фынæт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	ома	ома	SCONJ	_	_	_	_	_	_
@@ -1335,7 +1336,7 @@
 15	æнусон	æнусон	ADJ	_	_	_	_	_	_
 16	цардмæ	цард	NOUN	_	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 17	а	а	PART	_	_	_	_	_	_
-18	хызт	хизын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+18	хызт	хызт	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 19	"	"	PUNCT	_	_	_	_	_	_
 20	,	,	PUNCT	_	_	_	_	_	_
 21	—	—	PUNCT	_	_	_	_	_	_
@@ -1373,7 +1374,7 @@
 4	уазæг	уазæг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	хицауады	хицауад	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	сæрдар	сæрдар	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-7	Хъуылымбегды	Хъуылымбегды	PROPN	_	Case=Nom|Number=Plur	_	_	_	_
+7	Хъуылымбегды	Хъуылымбегды	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 8	Доменти	Доменти	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 9	дæр	дæр	PART	_	_	_	_	_	_
 10	æмæ	æмæ	CCONJ	_	_	_	_	_	_
@@ -1388,8 +1389,8 @@
 19	с	с	PART	_	_	_	_	_	_
 20	кусдзæн	кусын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
 21	дыууæ	дыууæ	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
-22	къуырийы	къуыри	NOUN	_	Case=Nom|Number=Count	_	_	_	_
-23	æмгъуыдмæ	æмгъуыд	NOUN	_	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+22	къуырийы	къуыри	NOUN	_	Case=Gen|Number=Count	_	_	_	_
+23	æмгъуыдмæ	æмгъуыд	NOUN	_	Case=All|Number=Sing	_	_	_	_
 24	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 63
@@ -1436,7 +1437,7 @@
 8	,	,	PUNCT	_	_	_	_	_	_
 9	ра	ра	PART	_	_	_	_	_	_
 10	куырдтам	курын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
-11	дзы	йæ	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+11	дзы	йæ	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 12	адæмты	адæм	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 13	æхсæн	æхсæн	ADP	_	_	_	_	_	_
 14	уарзондзинад	уарзондзинад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -1700,7 +1701,7 @@
 13	,	,	PUNCT	_	_	_	_	_	_
 14	хонгæ	хонгæ	NOUN	_	Case=Nom|Number=Sing|VerbForm=Conv	_	_	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
-16	абхазаг	абхазаг	ADJ	_	_	_	_	_	_
+16	абхазаг	абхазаг	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 17	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 18	æндæр	æндæр	ADJ	_	_	_	_	_	_
 19	кæфтытæ	кафт	NOUN	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -1768,7 +1769,7 @@
 8	дæсæй	дæс	NUM	_	Case=Abl|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
 9	фылдæр	бирæ	ADV	_	Degree=Cmp	_	_	_	_
 10	ба	ба	PART	_	_	_	_	_	_
-11	дзырдыл	дзырд	NOUN	_	Case=Sup|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+11	дзырдыл	дзырд	NOUN	_	Aspect=Perf|Case=Sup|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 12	ахæм	ахæм	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
 13	фадгуыты	фадыг	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 14	,	,	PUNCT	_	_	_	_	_	_
@@ -1823,7 +1824,8 @@
 7	аразджытæ	аразæг	NOUN	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 8	архайынц	архайын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 9	кувæндон	кувæндон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
-10	сæндидзын	сæндидзын	VERB	_	VerbForm=Inf	_	_	_	_
+10	с	с	PART	_	_	_	_	_	_
+10	æндидзын	æндидзын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
 11	кæныныл	кæнын	NOUN	_	Case=Sup|Number=Sing|VerbForm=Inf	_	_	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1834,7 +1836,7 @@
 2	Аслан	Аслан	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 3	тренировкæ	тренировкæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	кæны	кæнын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-5	Америчы	Америч	PROPN	_	Case=Ine|Number=Sing	_	_	_	_
+5	Америчы	Америк	PROPN	_	Case=Ine|Number=Sing	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 83
@@ -1881,7 +1883,7 @@
 10	хайад	хайад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	ра	ра	PART	_	_	_	_	_	_
 12	исдзысты	исын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
-13	катфы	катф	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+13	катфы	кафт	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	Typo=Yes
 14	коллективтæ	коллектив	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
@@ -1891,10 +1893,10 @@
 1	10	10	ADJ	_	NumForm=Digit|NumType=Ord	_	_	_	_
 2	ноябрь	ноябрь	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	—	—	PUNCT	_	_	_	_	_	_
-4	Концерт	Концерт	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+4	Концерт	Концерт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	милицийы	милици	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 6	боны	бон	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-7	цытæн	цыт	NOUN	_	Case=Dat|Number=Plur	_	_	_	_
+7	цытæн	цыт	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 8	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 86
@@ -1911,7 +1913,7 @@
 9	æлхæндзыстæм	æлхæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Fut|VerbForm=Fin	_	_	_	_
 10	æппæт	æппæт	DET	_	PronType=Tot	_	_	_	_
 11	æнæ	æнæ	ADP	_	_	_	_	_	_
-12	мæгхъæуæг	мæгхъæуæг	ADJ	_	Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+12	мæгхъæуæг	мæнгхъæуæг	ADJ	_	Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	Typo=Yes
 13	инвентарь	инвентарь	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 15	сабидон	сабидон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -1927,8 +1929,7 @@
 # sent_id = 87
 # genre_id = news
 # text = "Мерседес"-ы шофыр та дзырдта аннæрдæм.
-1	"	"	PUNCT	_	_	_	_	_	_
-2	Мерседес"-ы	Мерседес"	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+2	"Мерседес"-ы	"Мерседес"	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 3	шофыр	шофыр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	та	та	PART	_	_	_	_	_	_
 5	дзырдта	дзурын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -1947,12 +1948,12 @@
 6	зæххыл	зæхх	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 7	бирæ	бирæ	ADJ	_	_	_	_	_	_
 8	аргъуантæ	аргъуан	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
-9	кæй	кæй	PRON	_	Case=Gen|Number=Sing|PronType=Int	_	_	_	_
+9	кæй	кæй	SCONJ	_	_	_	_	_	_
 10	хæссынц	хæссын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	Хуыцауы	Хуыцау	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 12	ны	ны	PART	_	_	_	_	_	_
-13	арæджы	арæг	NOUN	_	Case=Gen|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
-14	фынæты	фынæт	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
+13	арæджы	арæг	NOUN	_	Aspect=Perf|Case=Gen|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+14	фынæты	фынæт	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 15	(	(	PUNCT	_	_	_	_	_	_
 16	Успение	Успение	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 17	)	)	PUNCT	_	_	_	_	_	_
@@ -1993,7 +1994,7 @@
 17	загъта	зæгъын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 18	Тыбылты	Тыбылтæ	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
 19	Леонид	Леонид	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
-20	акцийы	акций	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+20	акцийы	акци	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 21	рæстæджы	рæстæг	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 22	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2026,7 +2027,7 @@
 # text = Аразджытæ хъавынц рынчындоны ног корпус эксплуатацимæ раттын 20 декабрмæ, фехъусын кодта Æнæниздзинад хъахъхъæнынад æмæ социалон райрæзты министр Григорий Кулиджанов.
 1	Аразджытæ	аразæг	NOUN	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 2	хъавынц	хъавын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-3	рынчындоны	рынчындон	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+3	рынчындоны	рынчындон	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 4	ног	ног	ADJ	_	_	_	_	_	_
 5	корпус	корпус	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	эксплуатацимæ	эксплуатаци	NOUN	_	Case=All|Number=Sing	_	_	_	_
@@ -2052,16 +2053,16 @@
 # sent_id = 92
 # genre_id = news
 # text = Дзæуджыхъæуы кæронмæ бахæццæ аивæдты фестиваль "Уазæгуаты Гергиты Ларисæмæ".
-1	Дзæуджыхъæуы	Дзæуджыхъæу	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+1	Дзæуджыхъæуы	Дзæуджыхъæу	PROPN	_	Case=Ine|Number=Sing	_	_	_	_
 2	кæронмæ	кæрон	NOUN	_	Case=All|Number=Sing	_	_	_	_
 3	ба	ба	PART	_	_	_	_	_	_
 4	хæццæ	хæццæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	аивæдты	аивад	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 6	фестиваль	фестиваль	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	"	"	PUNCT	_	_	_	_	_	_
-8	Уазæгуаты	уазæгуат	NOUN	_	Case=Ine|Number=Plur	_	_	_	_
+8	Уазæгуаты	уазæгуат	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 9	Гергиты	Гергитæ	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
-10	Ларисæмæ	Ларисæмæ	PROPN	_	Case=All|Number=Plur	_	_	_	_
+10	Ларисæмæ	Ларисæ	PROPN	_	Case=All|Number=Sing	_	_	_	_
 11	"	"	PUNCT	_	_	_	_	_	_
 12	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2249,7 +2250,7 @@
 # text = "Æрцахсты рæстæджы Гуырдзыстоны æмбæстæгтæм документтæ кæй нæ разынд, уый тыххæй ныртæккæ цæуы куыст арæнхалджыты гоймæгтæ сбæрæг кæныны фæдыл",— банысан кодтой ПÆК-ы.
 1	"	"	PUNCT	_	_	_	_	_	_
 2	Æр	æр	PART	_	_	_	_	_	_
-3	ахсты	ахст	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+3	ахсты	ахст	NOUN	_	Aspect=Perf|Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 4	рæстæджы	рæстæг	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 5	Гуырдзыстоны	Гуырдзыстон	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 6	æмбæстæгтæм	æмбæстаг	NOUN	_	Case=All|Number=Plur	_	_	_	_
@@ -2263,7 +2264,7 @@
 14	тыххæй	тыххæй	ADP	_	_	_	_	_	_
 15	ныр	ныр	ADV	_	PronType=Dem	_	_	_	_
 16	тæккæ	тæккæ	PART	_	_	_	_	_	_
-17	цæуы	цæу	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+17	цæуы	цæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 18	куыст	куыст	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 19	арæнхалджыты	арæнхалæг	NOUN	_	Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 20	гоймæгтæ	гоймаг	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -2498,7 +2499,7 @@
 # sent_id = 113
 # genre_id = news
 # text = Къуаисайы байгом уыдзæн ног рынчындон.
-1	Къуаисайы	Къуаиса	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+1	Къуаисайы	Къуаиса	PROPN	_	Case=Ine|Number=Sing	_	_	_	_
 2	ба	ба	PART	_	_	_	_	_	_
 3	гом	гом	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	уыдзæн	уæвын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
@@ -2509,7 +2510,7 @@
 # sent_id = 114
 # genre_id = news
 # text = Арæзтады министрады бæрæггæнæнтæм гæсгæ, ацы объекттæ не ‘рцыдысты хаст æввахс æзты Инвестицион нывæзтмæ дæр.
-1	Арæзтады	арæзтады	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+1	Арæзтады	арæзтады	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 2	министрады	министрад	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 3	бæрæггæнæнтæм	бæрæггæнæн	NOUN	_	Case=All|Number=Plur|VerbForm=Inf2	_	_	_	_
 4	гæсгæ	гæсгæ	ADP	_	_	_	_	_	_
@@ -2519,10 +2520,10 @@
 8	не	нæ	PART	_	Polarity=Neg	_	_	_	_
 9	‘	‘	PUNCT	_	_	_	_	_	_
 10	р	æр	PART	_	_	_	_	_	_
-11	цыдысты	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+11	цыдысты	цæуын	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 12	хаст	хаст	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 13	æввахс	æввахс	ADJ	_	_	_	_	_	_
-14	æзты	аз	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
+14	æзты	аз	NOUN	_	Case=Ine|Number=Plur	_	_	_	_
 15	Инвестицион	инвестицион	ADJ	_	_	_	_	_	_
 16	нывæзтмæ	нывæзт	NOUN	_	Case=All|Number=Sing	_	_	_	_
 17	дæр	дæр	PART	_	_	_	_	_	_
@@ -2642,13 +2643,15 @@
 # genre_id = news
 # text = 2010 азы дыккаг хатт æвзæрст æрцыд РЦИ-Аланийы сæргълæууæгæй.
 1	2010	2010	ADJ	_	NumForm=Digit|NumType=Ord	_	_	_	_
-2	азы	аз	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
+2	азы	аз	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 3	дыккаг	дыккаг	ADJ	_	NumForm=Word|NumType=Ord	_	_	_	_
 4	хатт	хатт	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	æвзæрст	æвзæрст	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 6	æр	æр	PART	_	_	_	_	_	_
 7	цыд	цæуын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-8	РЦИ-Аланийы	Рци-алани	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+8	РЦИ	Рци	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+8	-	-	PUNCT	_	_	_	_	_	_
+8	Аланийы	алани	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 9	сæргълæууæгæй	сæргълæууæг	NOUN	_	Case=Abl|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 10	.	.	PUNCT	_	_	_	_	_	_
 
@@ -2685,7 +2688,7 @@
 7	Цхинвалы	Цхинвал	PROPN	_	Case=Ine|Number=Sing	_	_	_	_
 8	фыдбылызæй	фыдбылыз	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 9	а	а	PART	_	_	_	_	_	_
-10	ивæрзт	ивæрзт	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+10	ивæрзт	ивæрзын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 11	цыппараздзыд	цыппараздзыд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 12	сывæллон	сывæллон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	.	.	PUNCT	_	_	_	_	_	_
@@ -2715,7 +2718,7 @@
 20	хæстæ	хæстæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 21	æххæст	æххæст	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 22	кæныны	кæнын	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
-23	æмгъуыд	æмгъуыд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+23	æмгъуыд	æмгъуыд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 24	кæй	кæй	SCONJ	_	_	_	_	_	_
 25	а	а	PART	_	_	_	_	_	_
 26	цыд	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -8305,7 +8308,7 @@
 7	уæд	уæд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 8	ын	йæ	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
-10	кæй	чи	PRON	_	Case=Gen|Number=Sing|PronType=Int	_	_	_	_
+10	кæй	кæй	SCONJ	_	_	_	_	_	_
 11	зæгъын	зæгъын	VERB	_	VerbForm=Inf	_	_	_	_
 12	æй	йæ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 13	хъæуы	хъæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -8709,7 +8712,7 @@
 17	хæстæ	хæстæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 18	æххæст	æххæст	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 19	кæныны	кæнын	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
-20	æмгъуыд	æмгъуыд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+20	æмгъуыд	æмгъуыд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 21	кæй	кæй	SCONJ	_	_	_	_	_	_
 22	а	а	PART	_	_	_	_	_	_
 23	цыд	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -11796,7 +11799,7 @@
 15	цыдысты	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 16	58	58	NUM	_	NumForm=Digit|NumType=Card	_	_	_	_
 17	боны	бон	NOUN	_	Case=Gen|Number=Count	_	_	_	_
-18	æмгъуыдмæ	æмгъуыд	NOUN	_	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+18	æмгъуыдмæ	æмгъуыд	NOUN	_	Case=All|Number=Sing	_	_	_	_
 19	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 549

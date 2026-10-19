@@ -5634,7 +5634,7 @@
 7	хæдæг	хæдæг	PRON	_	Case=Nom|Number=Sing|PronType=Prs|Reflex=Yes	_	_	_	_
 8	дæр	дæр	PART	_	_	_	_	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
-10	кæй	чи	PRON	_	Case=Gen|Number=Sing|PronType=Int	_	_	_	_
+10	кæй	кæй	SCONJ	_	_	_	_	_	_
 11	зæгъын	зæгъын	VERB	_	VerbForm=Inf	_	_	_	_
 12	æй	йæ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 13	хъæуы	хъæуын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_

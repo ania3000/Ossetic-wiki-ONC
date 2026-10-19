@@ -1401,7 +1401,7 @@
 # sent_id = 74
 # genre_id = fiction_kotsoev
 # text = Куадзæны размæ сабаты хъæуы уынгты зынгæ фылдæр адæм рауай-бауай кодтой  алчи дæр йæхи бæрæгбонмæ цæттæ кодта.
-1	Куадзæны	куадзæн	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf2	_	_	_	_
+1	Куадзæны	куадзæн	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 2	размæ	раз	NOUN	_	Case=All|Number=Sing	_	_	_	_
 3	сабаты	сабат	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 4	хъæуы	хъæу	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -1478,7 +1478,7 @@
 5	ус	ус	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 7	хорз	хорз	ADJ	_	_	_	_	_	_
-8	куадзæнæй	куадзæн	NOUN	_	Case=Abl|Number=Sing|VerbForm=Inf2	_	_	_	_
+8	куадзæнæй	куадзæн	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 9	хуыздæр	хорз	ADJ	_	Degree=Cmp	_	_	_	_
 10	та	та	PART	_	_	_	_	_	_
 11	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
@@ -2264,7 +2264,7 @@
 3	а	а	PART	_	_	_	_	_	_
 4	уæлдай	уæлдай	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	кæнæм	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
-6	куадзæнæн	куадзæнæн	NOUN	_	Case=Dat|Number=Sing|VerbForm=Inf2	_	_	_	_
+6	куадзæнæн	куадзæнæн	NOUN	_	Case=Dat|Number=Sing	_	_	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 122
@@ -4245,7 +4245,7 @@
 11	хъыбыл	хъыбыл	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 12	та	та	PART	_	_	_	_	_	_
 13	хæссы	хæссын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
-14	куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing|VerbForm=Inf2	_	_	_	_
+14	куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing	_	_	_	_
 15	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 220
@@ -5475,7 +5475,7 @@
 # sent_id = 286
 # genre_id = fiction_kotsoev
 # text = Куадзæн хорз саразæм ацы хатт, афтæ хорз, æмæ нæм сыхæгтæ хæлæг куыд кæной.
-1	Куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
+1	Куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	хорз	хорз	ADV	_	_	_	_	_	_
 3	с	с	PART	_	_	_	_	_	_
 4	аразæм	аразын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -6251,7 +6251,7 @@
 32	нын	нæ	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	_	_	_	_
 33	хæссут	хæссын	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
 34	нæ	нæ	DET	_	Number=Plur|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
-35	куадзæны	куадзæн	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf2	_	_	_	_
+35	куадзæны	куадзæн	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 36	хъыбыл	хъыбыл	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 37	?	?	PUNCT	_	_	_	_	_	_
 
@@ -6369,7 +6369,7 @@
 # sent_id = 334
 # genre_id = fiction_kotsoev
 # text = Куадзæнмæ ма дыууæ мæйы уыди, афтæ Гиго æмæ йæ ус Пело æрнымадтой сæ ис-сæ бон каркæй, бабызæй, хъыбылæй æмæ загътой:  Табу Хуыцауæн, ис та нæм.
-1	Куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing|VerbForm=Inf2	_	_	_	_
+1	Куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing	_	_	_	_
 2	ма	ма	PART	_	_	_	_	_	_
 3	дыууæ	дыууæ	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
 4	мæйы	мæй	NOUN	_	Case=Nom|Number=Count	_	_	_	_
@@ -6502,7 +6502,7 @@
 11	фынгыл	фынг	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 12	-	-	PUNCT	_	_	_	_	_	_
 13	иу	иу	PART	_	_	_	_	_	_
-14	куадзæн	куадзæн	ADJ	_	VerbForm=Inf2	_	_	_	_
+14	куадзæн	куадзæн	ADJ	_	_	_	_	_	_
 15	бон	бон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	уыди	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 17	куы	куы	ADV	_	PronType=Int	_	_	_	_
@@ -7782,10 +7782,10 @@
 6	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 7	«	«	PUNCT	_	_	_	_	_	_
 8	лайсом	лайсом	ADV	_	_	_	_	_	_
-9	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
+9	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	,	,	PUNCT	_	_	_	_	_	_
 11	лайсом	лайсом	ADV	_	_	_	_	_	_
-12	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
+12	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	»	»	PUNCT	_	_	_	_	_	_
 14	хъæргæнгæйæ	хъæргæнгæйæ	ADV	_	VerbForm=Conv2	_	_	_	_
 15	,	,	PUNCT	_	_	_	_	_	_
@@ -9778,7 +9778,7 @@
 # genre_id = fiction_kotsoev
 # text = Уæртæ куадзæнмæ цы хъыбыл хæссæм, уымæй зæгъын... Уæвгæ та цæй нардгæнаг у хъыбыл, нырма йæ ныр базыдтон.
 1	Уæртæ	уæртæ	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
-2	куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing|VerbForm=Inf2	_	_	_	_
+2	куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing	_	_	_	_
 3	цы	цы	DET	_	PronType=Int	_	_	_	_
 4	хъыбыл	хъыбыл	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 5	хæссæм	хæссын	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -10049,7 +10049,7 @@
 9	,	,	PUNCT	_	_	_	_	_	_
 10	исты	исты	DET	_	PronType=Ind	_	_	_	_
 11	æфсонæй	æфсон	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
-12	куадзæны	куадзæн	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf2	_	_	_	_
+12	куадзæны	куадзæн	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	хъыбылы	хъыбыл	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 14	кой	кой	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	ра	ра	PART	_	_	_	_	_	_
@@ -10324,7 +10324,7 @@
 12	куы	куы	ADV	_	PronType=Int	_	_	_	_
 13	а	а	PART	_	_	_	_	_	_
 14	æргæвстам	æргæвдын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
-15	куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing|VerbForm=Inf2	_	_	_	_
+15	куадзæнмæ	куадзæн	NOUN	_	Case=All|Number=Sing	_	_	_	_
 16	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 546
@@ -11071,7 +11071,7 @@
 5	ацы	ацы	DET	_	Deixis=Prox|PronType=Dem	_	_	_	_
 6	аз	аз	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	хъæздыг	хъæздыг	ADJ	_	_	_	_	_	_
-8	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
+8	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 9	с	с	PART	_	_	_	_	_	_
 10	аразын	аразын	VERB	_	Aspect=Perf|VerbForm=Inf	_	_	_	_
 11	.	.	PUNCT	_	_	_	_	_	_
@@ -11119,11 +11119,11 @@
 # sent_id = 589
 # genre_id = fiction_kotsoev
 # text = Куадзæн кæд у, куадзæн нæма æрцыди?
-1	Куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
+1	Куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	кæд	кæд	ADV	_	PronType=Int	_	_	_	_
 3	у	уæвын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
-5	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
+5	куадзæн	куадзæн	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 6	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 7	ма	ма	PART	_	_	_	_	_	_
 8	æр	æр	PART	_	_	_	_	_	_
