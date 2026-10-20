@@ -1186,7 +1186,7 @@
 10	хохæй	хох	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 11	быдырмæ	быдыр	NOUN	_	Case=All|Number=Sing	_	_	_	_
 12	ра	ра	PART	_	_	_	_	_	_
-13	ивыны	ивын	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf	_	_	_	_
+13	ивыны	ивын	NOUN	_	Case=Gen|Number=Sing|VerbForm=Inf|Aspect=Perf	_	_	_	_
 14	уынаффæ	уынаффæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 15	ра	ра	PART	_	_	_	_	_	_
 16	цыди	цæуын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -2134,7 +2134,7 @@
 13	,	,	PUNCT	_	_	_	_	_	_
 14	уымæй	уый	PRON	_	Case=Abl|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 15	с	с	PART	_	_	_	_	_	_
-16	сты	уæвын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	Typo=Yes
+16	сты	уæвын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Aspect=Perf	_	_	_	Typo=Yes
 17	бынæттон	бынæттон	ADJ	_	_	_	_	_	_
 18	цæрджытæ	цæрæг	NOUN	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 19	хъазахъхъ	хъазахъхъ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -3242,7 +3242,7 @@
 4	онг	онг	ADP	_	_	_	_	_	_
 5	æвзæгты	æвзаг	NOUN	_	Case=Gen|Number=Plur	_	_	_	_
 6	с	с	PART	_	_	_	_	_	_
-7	конд	конд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+7	конд	конд	NOUN	_	Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass|Aspect=Perf	_	_	_	_
 8	с	с	PART	_	_	_	_	_	_
 9	фыссынæн	фыссын	NOUN	_	Aspect=Perf|Case=Dat|Number=Sing|VerbForm=Inf	_	_	_	_
 10	ахуыргæндтæ	ахуыргонд	NOUN	_	Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
@@ -8009,7 +8009,7 @@
 6	Цæгат	цæгат	ADJ	_	_	_	_	_	_
 7	Зæххы	Зæхх	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 8	с	с	PART	_	_	_	_	_	_
-9	конды	конд	NOUN	_	Case=Ine|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+9	конды	конд	NOUN	_	Case=Ine|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass|Aspect=Perf	_	_	_	_
 10	чи	чи	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 11	сты	уæвын	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
@@ -9516,7 +9516,7 @@
 8	Джон	Джон	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 9	Кеннедийы	Кеннеди	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 10	а	а	PART	_	_	_	_	_	_
-11	марды	мард	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+11	марды	мард	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass|Aspect=Perf	_	_	_	_
 12	фæстæ	фæстæ	ADP	_	_	_	_	_	_
 13	марой	марой	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 14	куы	куы	ADV	_	PronType=Int	_	_	_	_
@@ -12904,7 +12904,7 @@
 7	контракты	контракт	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 8	гонд	гонд	ADJ	_	Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 9	ба	ба	PART	_	_	_	_	_	_
-10	дзырды	дзырд	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+10	дзырды	дзырд	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass|Aspect=Perf	_	_	_	_
 11	ныхмæ	ных	NOUN	_	Case=All|Number=Sing	_	_	_	_
 12	йе	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 13	знаджы	знадж	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -13744,7 +13744,7 @@
 25	æнæхъæн	æнæхъæн	DET	_	PronType=Tot	_	_	_	_
 26	альбомы	альбом	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 27	ра	ра	PART	_	_	_	_	_	_
-28	уагъдæй	уагъд	NOUN	_	Case=Abl|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+28	уагъдæй	уагъд	NOUN	_	Case=Abl|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass|Aspect=Perf	_	_	_	_
 29	дыууæ	дыууæ	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
 30	мæйы	мæй	NOUN	_	Case=Nom|Number=Count	_	_	_	_
 31	раздæр	раз	ADV	_	Degree=Cmp	_	_	_	_
@@ -14128,7 +14128,7 @@
 15	та	та	PART	_	_	_	_	_	_
 16	уый	уый	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 17	сс	с	PART	_	_	_	_	_	_
-18	и	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
+18	и	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Aspect=Perf	_	_	_	_
 19	растады	растад	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 20	нысан	нысан	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 21	.	.	PUNCT	_	_	_	_	_	_
@@ -14338,7 +14338,7 @@
 # text = Уый саразынмæ, Епстейн бадзырдта, Polydor-имæ контракт раздæр кæй фæивар кæндзысты, Битлз та уалынмæ фылдæр Тони Шериданимæ фылдæр зæрджытæ сараздзысты.
 1	Уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 2	с	с	PART	_	_	_	_	_	_
-3	аразынмæ	аразын	NOUN	_	Case=All|Number=Sing|VerbForm=Inf	_	_	_	_
+3	аразынмæ	аразын	NOUN	_	Case=All|Number=Sing|VerbForm=Inf|Aspect=Perf	_	_	_	_
 4	,	,	PUNCT	_	_	_	_	_	_
 5	Епстейн	Епстейн	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 6	ба	ба	PART	_	_	_	_	_	_
@@ -14609,7 +14609,7 @@
 31	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 32	студион	студион	ADJ	_	_	_	_	_	_
 33	ба	ба	PART	_	_	_	_	_	_
-34	фысты	фыст	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+34	фысты	фыст	NOUN	_	Case=Gen|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass|Aspect=Perf	_	_	_	_
 35	дæргъы	дæргъ	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
 36	.	.	PUNCT	_	_	_	_	_	_
 
