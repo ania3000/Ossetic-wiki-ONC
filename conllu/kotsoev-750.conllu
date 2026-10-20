@@ -2226,7 +2226,7 @@
 6	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 7	йæм	йæ	PRON	_	Case=All|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	а	а	PART	_	_	_	_	_	_
-9	раст	раст	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+9	раст	раст	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 10	ис	уæвын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	,	,	PUNCT	_	_	_	_	_	_
 12	раттон	раттын	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_
@@ -4709,7 +4709,7 @@
 9	фæдыл	фæд	NOUN	_	Case=Sup|Number=Sing	_	_	_	_
 10	хæдзармæ	хæдзар	NOUN	_	Case=All|Number=Sing	_	_	_	_
 11	ба	ба	PART	_	_	_	_	_	_
-12	раст	раст	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+12	раст	раст	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 13	сты	уæвын	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 14	.	.	PUNCT	_	_	_	_	_	_
 
@@ -7886,7 +7886,7 @@
 12	æвæрдта	æвæрын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 13	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 14	а	а	PART	_	_	_	_	_	_
-15	раст	раст	NOUN	_	Aspect=Perf|Case=Nom|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+15	раст	раст	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 16	ис	уæвын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 17	стыр	стыр	ADJ	_	_	_	_	_	_
 18	Кæсæгмæ	Кæсæг	PROPN	_	Case=All|Number=Sing	_	_	_	_
