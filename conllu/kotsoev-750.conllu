@@ -3638,7 +3638,7 @@
 # sent_id = 192
 # genre_id = fiction_kotsoev
 # text = Хъыбыл тынг нард касти Пеломæ дæр, фæлæ уый уæддæр загъта:  Нард у, цы дзы загъдæуа, фæлæ æз Калачы куы уыдтæн, уæд дзы нарддæртæ федтон.
-1	Хъыбыл	Хъыбыл	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Хъыбыл	Хъыбыл	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	тынг	тынг	ADV	_	_	_	_	_	_
 3	нард	нард	ADJ	_	_	_	_	_	_
 4	касти	кæсын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -4285,7 +4285,7 @@
 # sent_id = 222
 # genre_id = fiction_kotsoev
 # text = Симон дæр æрбадти, зулмæ бакасти Тедомæ æмæ загъта: Ахуд, ахуд, Тедо!
-1	Симон	симон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Симон	симон	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	дæр	дæр	PART	_	_	_	_	_	_
 3	æр	æр	PART	_	_	_	_	_	_
 4	бадти	бадын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -11184,7 +11184,7 @@
 # sent_id = 593
 # genre_id = fiction_kotsoev
 # text = Пъырыстыф ныхъхъуыды кодта.
-1	Пъырыстыф	Пъырыстыф	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Пъырыстыф	Пъырыстыф	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	ны	ны	PART	_	_	_	_	_	_
 3	хъуыды	хъуыды	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	кодта	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -11764,7 +11764,7 @@
 # sent_id = 628
 # genre_id = fiction_kotsoev
 # text = Хъыбыл дæр мæтæй марди,  бонæй-бонмæ зынгæ нарддæр кодта.
-1	Хъыбыл	Хъыбыл	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Хъыбыл	Хъыбыл	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	дæр	дæр	PART	_	_	_	_	_	_
 3	мæтæй	мæт	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 4	марди	мæлын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -11792,7 +11792,7 @@
 2	йыл	йæ	PRON	_	Case=Sup|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	ра	ра	PART	_	_	_	_	_	_
 4	цæй	цæй	PART	_	_	_	_	_	_
-5	цæуы	цæуын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
+5	цæуы	цæуын	AUX	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 7	йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 8	сæр	сæр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -11875,7 +11875,7 @@
 2	уæд	уæд	ADV	_	Deixis=Remt|PronType=Dem	_	_	_	_
 3	дæр	дæр	PART	_	_	_	_	_	_
 4	ницы	ницы	PRON	_	Case=Nom|Number=Sing|PronType=Neg	_	_	_	_
-5	ма	ма	PART	_	Polarity=Neg	_	_	_	_
+5	ма	ма	PART	_	_	_	_	_	_
 6	æмбæрста	æмбарын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 7	.	.	PUNCT	_	_	_	_	_	_
 
@@ -12336,7 +12336,7 @@
 # sent_id = 658
 # genre_id = fiction_kotsoev
 # text = Бирæ нæ ахаста хæст.
-1	Бирæ	бирæ	ADV	_	_	_	_	_	_
+1	Бирæ	бирæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	нæ	нæ	PART	_	Polarity=Neg	_	_	_	_
 3	а	а	PART	_	_	_	_	_	_
 4	хаста	хæссын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -12421,11 +12421,11 @@
 14	æнхъæлмæ	æнхъæл	NOUN	_	Case=All|Number=Sing	_	_	_	_
 15	кастæн	кæсын	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
 16	,	,	PUNCT	_	_	_	_	_	_
-17	уый	уый	PRON	_	Case=Gen|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
+17	уый	уый	PRON	_	Case=Nom|Deixis=Remt|Number=Sing|PronType=Dem	_	_	_	_
 18	фæ	фæ	PART	_	_	_	_	_	_
 19	зынди	зынын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 20	,	,	PUNCT	_	_	_	_	_	_
-21	иннæмæй	иннæ	NOUN	_	Case=All|Number=Sing	_	_	_	_
+21	иннæмæй	иннæ	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 22	та	та	PART	_	_	_	_	_	_
 23	,	,	PUNCT	_	_	_	_	_	_
 24	тæрсгæ	тæрсгæ	NOUN	_	Case=Nom|Number=Sing|VerbForm=Conv	_	_	_	_
@@ -12486,7 +12486,7 @@
 4	лæгай	лæг	NOUN	_	Case=Voc|Number=Sing	_	_	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
-7	дзы	йæ	PRON	_	Case=Abl|Number=Sing|Person=3|PronType=Prs	_	_	_	_
+7	дзы	йæ	PRON	_	Case=Ine|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 8	зæгъæм	зæгъын	VERB	_	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 9	.	.	PUNCT	_	_	_	_	_	_
 
@@ -12540,13 +12540,13 @@
 9	цæм	цæм	ADV	_	PronType=Int	_	_	_	_
 10	æй	йæ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 11	а	а	PART	_	_	_	_	_	_
-12	хæссæм	хæссын	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
+12	хæссæм	хæссын	VERB	_	Aspect=Perf|Mood=Sub|Number=Plur|Person=1|VerbForm=Fin	_	_	_	_
 13	!	!	PUNCT	_	_	_	_	_	_
 
 # sent_id = 670
 # genre_id = fiction_kotsoev
 # text = Симон иунæгæй баззади æмæ дис кодта, цымæ цæмæн ацыди Тедо?
-1	Симон	симон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Симон	симон	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 2	иунæгæй	иунæг	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 3	ба	ба	PART	_	_	_	_	_	_
 4	зади	зайын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -12699,7 +12699,7 @@
 # sent_id = 677
 # genre_id = fiction_kotsoev
 # text = Хурскастæй хурныгуылдмæ кусæг чызджытæ гауызтæ æмæ тынтæ нывæзтой, хуыдтой чындздзон дзаумæттæ.
-1	Хурскастæй	хурскаст	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
+1	Хурскастæй	хурскаст	NOUN	_	Case=Abl|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 2	хурныгуылдмæ	хурныгуылд	NOUN	_	Case=All|Number=Sing	_	_	_	_
 3	кусæг	кусæг	ADJ	_	Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 4	чызджытæ	чызг	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -12799,7 +12799,7 @@
 # sent_id = 683
 # genre_id = fiction_kotsoev
 # text = Пъырыстыф сфæнд кодта йæ дзырдыл хъæбæр лæууын æмæ загъта: Дæ ныхæстæ, чи зоны, раст сты.
-1	Пъырыстыф	Пъырыстыф	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Пъырыстыф	Пъырыстыф	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	с	с	PART	_	_	_	_	_	_
 3	фæнд	фæнд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	кодта	кæнын	AUX	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -12905,7 +12905,7 @@
 1	Кæдæм	кæдæм	ADV	_	PronType=Int	_	_	_	_
 2	цæуыс	цæуын	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
 3	,	,	PUNCT	_	_	_	_	_	_
-4	кæ	кæ	ADV	_	PronType=Int	_	_	_	_
+4	кæ	кæ	INTJ	_	_	_	_	_	_
 5	,	,	PUNCT	_	_	_	_	_	_
 6	Тедо	Тедо	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
 7	?	?	PUNCT	_	_	_	_	_	_
@@ -13296,7 +13296,7 @@
 # genre_id = fiction_kotsoev
 # text = Барджытæ иукъорд афонты фæаууон сты, æрхы ныххызтысты, фæлæ уалынмæ хæстæгдæр къуыбырыл фæзындысты.
 1	Барджытæ	барæг	NOUN	_	Case=Nom|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
-2	иукъорд	иукъорд	ADJ	_	_	_	_	_	_
+2	иукъорд	иукъорд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	афонты	афон	NOUN	_	Case=Ine|Number=Plur	_	_	_	_
 4	фæ	фæ	PART	_	_	_	_	_	_
 5	аууон	аууон	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -13550,7 +13550,7 @@
 7	йе	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 8	`	`	PUNCT	_	_	_	_	_	_
 9	фсымæры	æфсымæр	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
-10	марæгмæ	марæг	NOUN	_	Case=All|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
+10	марæгмæ	марæг	NOUN	_	Case=All|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
 11	æмæ	æмæ	CCONJ	_	_	_	_	_	_
 12	,	,	PUNCT	_	_	_	_	_	_
 13	катай	катай	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -13954,7 +13954,7 @@
 1	Цом	цæуын	VERB	_	Mood=Imp|Number=Plur|Person=1|VerbForm=Fin	_	_	_	_
 2	,	,	PUNCT	_	_	_	_	_	_
 3	æз	æз	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
-4	хъыбылы	хъыбыл	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+4	хъыбылы	хъыбыл	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 5	ра	ра	PART	_	_	_	_	_	_
 6	хæссон	хæссын	VERB	_	Aspect=Perf|Mood=Sub|Number=Sing|Person=1|VerbForm=Fin	_	_	_	_
 7	,	,	PUNCT	_	_	_	_	_	_
@@ -13976,7 +13976,7 @@
 # sent_id = 742
 # genre_id = fiction_kotsoev
 # text = Пъырыстыф ын пайда уыди.
-1	Пъырыстыф	Пъырыстыф	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
+1	Пъырыстыф	Пъырыстыф	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 2	ын	йæ	PRON	_	Case=Dat|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	пайда	пайда	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 4	уыди	уæвын	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
