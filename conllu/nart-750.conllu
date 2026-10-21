@@ -1346,7 +1346,7 @@
 9	—	—	PUNCT	_	_	_	_	_	_
 10	Амæй	ай	PRON	_	Case=Abl|Deixis=Prox|Number=Sing|PronType=Dem	_	_	_	_
 11	фæстæмæ	фæстæ	NOUN	_	Case=All|Number=Sing	_	_	_	_
-12	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Plur	_	_	_	_
+12	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
 13	сæ	сæ	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 14	сæры	сæр	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 15	кæхцытæ	кæхц	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
@@ -1369,7 +1369,7 @@
 7	—	—	PUNCT	_	_	_	_	_	_
 8	Донбеттыры	Донбеттыр	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 9	,	,	PUNCT	_	_	_	_	_	_
-10	Нартæй	Нарт	PROPN	_	Case=Abl|Number=Plur	_	_	_	_
+10	Нартæй	Нарт	PROPN	_	Case=Abl|Number=Sing	_	_	_	_
 11	та	та	PART	_	_	_	_	_	_
 12	—	—	PUNCT	_	_	_	_	_	_
 13	Борæйы	Борæ	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
@@ -4229,7 +4229,7 @@
 # sent_id = 173
 # genre_id = epic
 # text = Нарты адæм куывды авд æхсæвы æмæ авд боны фæбадтысты, стæй сæ хæдзæрттæм фæцыдысты, æрмæст ма уырдыгыстджытæ фæстæдæр аззадысты.
-1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
+1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 2	адæм	адæм	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 3	куывды	куывд	NOUN	_	Case=Ine|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	_	_	_	_
 4	авд	авд	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
@@ -4391,7 +4391,7 @@
 6	,	,	PUNCT	_	_	_	_	_	_
 7	—	—	PUNCT	_	_	_	_	_	_
 8	æз	æз	PRON	_	Case=Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	_
-9	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Plur	_	_	_	_
+9	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
 10	мæ	мæ	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 11	нуазæн	нуазæн	NOUN	_	Case=Nom|Number=Sing|VerbForm=Inf2	_	_	_	_
 12	радтон	раттын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	_	_	_	_
@@ -5092,7 +5092,7 @@
 2	æй	йæ	PRON	_	Case=Gen|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	:	:	PUNCT	_	_	_	_	_	_
 4	—	—	PUNCT	_	_	_	_	_	_
-5	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Plur	_	_	_	_
+5	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
 6	цы	цы	PRON	_	Case=Nom|Number=Sing|PronType=Int	_	_	_	_
 7	ба	ба	PART	_	_	_	_	_	_
 8	вæййыс	вæййын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
@@ -5854,7 +5854,7 @@
 2	аз	аз	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	с	с	PART	_	_	_	_	_	_
 4	кодта	кæнын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-5	Нартыл	Нарт	PROPN	_	Case=Sup|Number=Plur	_	_	_	_
+5	Нартыл	Нарт	PROPN	_	Case=Sup|Number=Sing	_	_	_	_
 6	.	.	PUNCT	_	_	_	_	_	_
 
 # sent_id = 240
@@ -5895,7 +5895,7 @@
 2	ныфс	ныфс	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	а	а	PART	_	_	_	_	_	_
 4	саст	сæттын	VERB	_	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
-5	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Plur	_	_	_	_
+5	Нартæн	Нарт	PROPN	_	Case=Dat|Number=Sing	_	_	_	_
 6	,	,	PUNCT	_	_	_	_	_	_
 7	сæ	сæ	DET	_	Number=Plur|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
 8	зæрдæ	зæрдæ	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -10390,7 +10390,7 @@
 18	ны	ны	PART	_	_	_	_	_	_
 19	хъæр	хъæр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 20	кæн	кæнын	AUX	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	_	_	_	_
-21	Нартыл	Нарт	PROPN	_	Case=Sup|Number=Plur	_	_	_	_
+21	Нартыл	Нарт	PROPN	_	Case=Sup|Number=Sing	_	_	_	_
 22	:	:	PUNCT	_	_	_	_	_	_
 23	«	«	PUNCT	_	_	_	_	_	_
 24	Йæ	йæ	DET	_	Number=Sing|Person=3|Poss=Yes|PronType=Prs	_	_	_	_
@@ -11097,7 +11097,7 @@
 # sent_id = 453
 # genre_id = epic
 # text = Нарты адæм — стырæй, чысылæй, зæрондæй, ногæй — худæгæй ныффæлдæхтытæ сты, сæ фырхудтæй уæлæмæ стын дæр нал фæрæзтой.
-1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
+1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 2	адæм	адæм	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 3	—	—	PUNCT	_	_	_	_	_	_
 4	стырæй	стыр	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
@@ -15610,7 +15610,7 @@
 # sent_id = 640
 # genre_id = epic
 # text = Нарты ’фсæдтæ сæ цæгъдын байдыдтой, æмæ сæ сæрмæ рыг мигъау сбадти.
-1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
+1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 2	’	’	PUNCT	_	_	_	_	_	_
 3	фсæдтæ	æфсад	NOUN	_	Case=Nom|Number=Plur	_	_	_	_
 4	сæ	сæ	PRON	_	Case=Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	_
@@ -15777,7 +15777,7 @@
 2	раст	раст	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	сты	уæвын	AUX	_	Aspect=Perf|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 4	Æртæ	æртæ	NUM	_	Case=Nom|Number=Sing|NumForm=Word|NumType=Card	_	_	_	_
-5	Нарты	Нарт	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
+5	Нарты	Нарт	PROPN	_	Case=Gen|Number=Count	_	_	_	_
 6	фæсивæд	фæсивæд	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 7	,	,	PUNCT	_	_	_	_	_	_
 8	Уырызмæг	Уырызмæг	PROPN	_	Case=Nom|Number=Sing	_	_	_	_
@@ -15899,7 +15899,7 @@
 # sent_id = 654
 # genre_id = epic
 # text = Нарты æфсад саухил лæджы сæр ралыг кодтой æмæ йæ бурхилы ’фцæджы бафтыдтой.
-1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Plur	_	_	_	_
+1	Нарты	Нарт	PROPN	_	Case=Gen|Number=Sing	_	_	_	_
 2	æфсад	æфсад	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 3	саухил	саухил	ADJ	_	_	_	_	_	_
 4	лæджы	лæг	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
