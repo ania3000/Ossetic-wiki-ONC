@@ -12,7 +12,7 @@
 9	мæ	мæ	DET	_	Number=Sing|Person=1|Poss=Yes|PronType=Prs	_	_	_	_
 10	хистæр	хистæр	NOUN	_	Case=Nom|Number=Sing	_	_	_	_
 11	æнæ	æнæ	ADP	_	_	_	_	_	_
-12	сæры	сæр	NOUN	_	Case=Ine|Number=Sing	_	_	_	_
+12	сæры	сæр	NOUN	_	Case=Gen|Number=Sing	_	_	_	_
 13	кæхцæй	кæхц	NOUN	_	Case=Abl|Number=Sing	_	_	_	_
 14	зайдзæн	зайын	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Fut|VerbForm=Fin	_	_	_	_
 15	!	!	PUNCT	_	_	_	_	_	_
